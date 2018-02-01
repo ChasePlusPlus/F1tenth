@@ -10,6 +10,6 @@ sortList.sort()
 
 #if the input and sorted lists match, return true, else ret false
 if myList == sortList:
-  print "Yes, the list is sorted"
+  print "Yes, list is in order"
 else:
-  print "No, the list is not in order"
+  print "No, list is not in order"
